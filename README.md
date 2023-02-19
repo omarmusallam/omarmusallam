@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Musallam</h1>
 <h3 align="center">Web developer specialized in front end and back end, interested in PHP Laravel Framework.</h3>
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 25%);"
-    src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
-    width="259" height="259">
+
 - 🔭 I’m currently working on **Team for Techmakers**
 
 - 👯 I’m looking to collaborate on **programming projects with Laravel**
@@ -12,13 +10,15 @@
 - 📫 How to reach me **omarrmo2001@gmail.com**
 
 - ⚡ Fun fact **teamwork ✌️**
-
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 25%);"
+    src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"
+    width="259" height="259">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/omar musallam" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/omar-musallam-978902257/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="omar musallam" height="30" width="40" /></a>
-    <a href="https://fb.com/omar abu musallam" target="blank"><img align="center"
+    <a href="https://www.facebook.com/omar.musallam.583/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="omar abu musallam" height="30" width="40" /></a>
     <a href="https://instagram.com/omar_musallam" target="blank"><img align="center"
