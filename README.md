@@ -27,9 +27,11 @@
 - 📫 How to reach me **omarrmo2001@gmail.com**
 
 - ⚡ Fun fact **teamwork ✌️**
-<picture> <img align="right"
-        src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"
-        style="visibility:visible;max-width:100%; right: 100px;"></picture>
+<p dir="auto"><themed-picture data-catalyst-inline="true" data-catalyst="">
+        <picture> <img align="right"
+                src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif"
+                width="250px" style="visibility:visible;max-width:100%;"></picture>
+    </themed-picture></p>
 <br><br>
 
 <img
