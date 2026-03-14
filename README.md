@@ -34,4 +34,4 @@ My focus is on developing web applications, RESTful APIs, admin dashboards, and 
 - Laravel Backend Systems
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/omar-musallam/
+- LinkedIn: [omar-musallam](https://www.linkedin.com/in/omar-musallam/)
