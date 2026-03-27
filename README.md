@@ -22,7 +22,7 @@ I enjoy building clean, maintainable, and scalable applications that solve real 
 - **API Development:** REST APIs, Sanctum, authentication flows
 - **Business Systems:** Admin dashboards, multi-role systems, workflow logic
 - **Payments:** Stripe integration, webhooks, payment flows
-- **Web Applications:** E-commerce platforms, donation systems, freelancing platforms
+- **Web Applications:** E-commerce platforms, donation systems, freelancing platforms, messenger application
 - **Frontend Integration:** Blade, JavaScript, Vue.js, Tailwind CSS
 - **Tools:** Git, GitHub, Composer
 
