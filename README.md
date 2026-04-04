@@ -8,9 +8,9 @@ Laravel Web Application Developer focused on building real-world platforms and s
 
 ## About Me
 
-I’m a Laravel Web Application Developer from Gaza, Palestine, with hands-on experience building web platforms such as donation systems, freelancing marketplaces, and e-commerce applications.
+I’m a Laravel Web Application Developer from Gaza, Palestine, with hands-on experience building practical web platforms such as donation systems, freelancing marketplaces, e-commerce applications, and real-time messaging systems.
 
-I specialize in developing backend systems using **Laravel, PHP, MySQL, and REST APIs**, with practical experience in **payment integrations, admin dashboards, role-based systems, multilingual applications, and business workflow development**.
+I specialize in backend development using **Laravel, PHP, MySQL, and REST APIs**, with practical experience in **payment integrations, admin dashboards, role-based systems, multilingual applications, authentication flows, and business workflow development**.
 
 I enjoy building clean, maintainable, and scalable applications that solve real problems and deliver practical value.
 
@@ -22,7 +22,7 @@ I enjoy building clean, maintainable, and scalable applications that solve real 
 - **API Development:** REST APIs, Sanctum, authentication flows
 - **Business Systems:** Admin dashboards, multi-role systems, workflow logic
 - **Payments:** Stripe integration, webhooks, payment flows
-- **Web Applications:** E-commerce platforms, donation systems, freelancing platforms, messenger application
+- **Web Applications:** E-commerce platforms, donation systems, freelancing platforms, messenger applications
 - **Frontend Integration:** Blade, JavaScript, Vue.js, Tailwind CSS
 - **Tools:** Git, GitHub, Composer
 
@@ -31,19 +31,22 @@ I enjoy building clean, maintainable, and scalable applications that solve real 
 ## Featured Projects
 
 ### Donation Management Platform
-Laravel-based donation platform with fundraising campaigns, donor accounts, Stripe payments, webhook processing, receipt generation and verification, multilingual support, and role-based administration.
+Developed a Laravel-based donation platform for real-world fundraising workflows, including campaign management, donor accounts, Stripe payment integration, webhook handling, receipt generation and verification, multilingual support, and role-based administration.
 
 ### Freelancing Marketplace Platform
-Laravel-based freelancing platform that enables clients to post projects and freelancers to submit proposals, with support for contracts, payments, filtering, categories, tags, messaging, and multilingual functionality.
+Built a Laravel-based freelancing marketplace that enables clients to post projects and freelancers to submit proposals, with features such as contracts, payment workflows, categories, tags, messaging, filtering, and multilingual support.
 
 ### E-Commerce Platform
-Full-featured Laravel e-commerce application with product and category management, shopping cart, checkout flow, order lifecycle, Stripe integration, admin dashboard, and API support.
+Created a full-featured Laravel e-commerce platform with product and category management, shopping cart and checkout functionality, order lifecycle handling, Stripe integration, admin dashboard capabilities, and API support.
+
+### Real-Time Messenger Application
+Built a Laravel-based messenger system focused on private communication and scalable chat workflows, with support for real-time messaging, conversation management, unread tracking, file attachments, broadcasting integration, and interactive frontend-backend communication.
 
 ---
 
 ## What I’m Looking For
 
-I’m currently focused on backend and web application development opportunities, freelance projects, and collaborative work where I can contribute to building useful and scalable Laravel applications.
+I’m currently seeking backend and web application development opportunities, freelance projects, and collaborative roles where I can contribute to building useful, maintainable, and scalable Laravel applications.
 
 ---
 
